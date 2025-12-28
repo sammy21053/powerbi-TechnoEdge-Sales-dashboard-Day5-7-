@@ -1,4 +1,4 @@
-# powerbi-TechnoEdge-Sales-dashboard-Day5-7-<img width="1111" height="635" alt="Screenshot 2025-12-28 161527" src="https://github.com/user-attachments/assets/8f325552-50b5-4dfa-9a35-f202fa4b9c75" />
+<img width="1111" height="635" alt="Screenshot 2025-12-28 161527" src="https://github.com/user-attachments/assets/8f325552-50b5-4dfa-9a35-f202fa4b9c75" />
 <img width="1122" height="632" alt="Screenshot 2025-12-28 161443" src="https://github.com/user-attachments/assets/3acb409f-dc3e-49be-8ee6-0404c637601d" />
 
 📊 Sales Performance Dashboard | Power BI
